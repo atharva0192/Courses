@@ -31,4 +31,7 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 
 
 ### Apriori Algorithm
-Sjsjsisjz
+
+- Itemset : A collection of one or more Item
+- Support Count(sigma) : It represents frequency of occurrence of itemset
+- Support (s) : Fraction of transactions that contain an itemset
