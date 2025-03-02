@@ -20,6 +20,6 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 - If length of frequent set is **k** then by downward closure property all of its 2^k subset are also frequent
 - Computationally expensive and no need to find the additional subsets and can be avoided using the frequent dataset with maximum length
 - One disadvantage with maximal frequent itemset is that even all its subsets are frequent, we do not know their supports which is important for mining rules
-- Closed Frequent Itemset is preferred
+- Closed Frequent Itemset is preferred.
 
 ![[Pasted image 20250303023550.png]]
