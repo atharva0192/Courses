@@ -141,9 +141,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "7302034446acfc2a",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +168,9 @@
   },
   "active": "d85832c3901872d5",
   "lastOpenFiles": [
-    "/Data Analytics.md",
     "Biology for Engineers.md",
     "Data Analytics.md",
+    "/Data Analytics.md",
     "Pasted image 20250303031809.png",
     "/Pasted image 20250303031809.png",
     "IMG_20250303_031448433_HDR.jpg",
