@@ -23,4 +23,4 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 - Closed Frequent Itemset is preferred.
 
 ![[Pasted image 20250303023550.png]]
-Let's go
+![[IMG_20250303_031441076_HDR.jpg]]![[IMG_20250303_031448433_HDR.jpg]]
