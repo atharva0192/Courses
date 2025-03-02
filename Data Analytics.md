@@ -32,6 +32,21 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 
 ### Apriori Algorithm
 
+#### Terms
 - Itemset : A collection of one or more Item
 - Support Count(sigma) : It represents frequency of occurrence of itemset
 - Support (s) : Fraction of transactions that contain an itemset
+- Confidence(c): Measures how often Y appears in transaction containing X
+#### Association Rule
+- an implication expression of form X->Y where X and Y are itemsets.
+- Support(X->Y) = P(XUY)
+- Confidence(X->Y) = P(Y|X) = P(XUY) / P(X)
+
+#### Apriori Algorithm
+- is an influential algorithm for mining frequent itemsets for boolean associations rules
+- Uses prior knowledge of frequent itemset properties (Apriori)
+- Uses  K frequent itemset to find K+1 itemsets
+- Based on three concepts:
+	- Frequent Itemset
+	- Apriori property
+	- Join Operations
