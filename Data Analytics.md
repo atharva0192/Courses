@@ -109,3 +109,12 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 - Divide and Conquer Strategy
 - Step 1 : Compress in Frequent Pattern Tree which captures itemset association information
 - Step 2: Set of conditional databases is formed from FP tree. Conditional Pattern base for each node represents various pattern fragment that we extract those which satisfy min confidence criteria
+- So this approach reduces the size of the dataset to be searched and also given out various frequent pattern segments
+#### Advantages
+- Only 2 passes over dataset
+- Compress the dataset
+- No candidate generation
+- Faster than Apriori
+#### Disadvantages
+- FP tree may not fit in the memory
+- FP tree is expensive to build
