@@ -50,3 +50,4 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 	- Frequent Itemset
 	- Apriori property
 	- Join Operations
+
