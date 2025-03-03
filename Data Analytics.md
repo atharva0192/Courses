@@ -53,3 +53,12 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 	
 ![[IMG_20250304_014819229_HDR.jpg]]![[IMG_20250304_014833766_HDR.jpg]]![[IMG_20250304_014839219_HDR.jpg]]
 
+#### Advantages
+- Easy to implement
+- can be easily parallelized
+- uses large item property
+
+#### Disadvantages
+- Requires many database scan
+- Assumes transaction database is memory resident
+
