@@ -174,7 +174,7 @@
 - What if we increase all the inputs rather than just one
 - Constant Return to Scale 
 	- Denotes the case where changes in all input leads to proportional increase in output
-- Increasing Return to Scale
+- Increasing Return to Scale (Economies of Sales)
 	- Denotes  the case where changes in all input leads to more than proportional changes in output
 - Decreasing Return to Scale
 	- When a balanced increase in input leads to less than proportional increase in output
@@ -182,3 +182,66 @@
 
 #### Short Run and Long Run
 - Time is also an input to Production
+- Short run is a period in which forms can adjust production by changing variable factors such as material and labor but cannot change fixed factors such as capital.
+- The long run is a period sufficiently long that all factor including capital can be adjusted. In the long run more efficient production processes can be installed so that level of efficiency can permanently be increased.
+
+#### Technological Change
+- Product Innovation , when new engineering knowledge improves production techniques for existing product , leads to shift in production function
+#### Productivity and the Aggregate Production function 
+- Productivity is a concept measuring the total output to a weighted average of total inputs.
+- Aggregate Production function = GDP
+
+#### Productivity Growth from Economies of Sales
+- Productivity grows due to economies of sales and technological change
+- While the technology might ideally allow constant or increasing returns to scale , the need for management and supervision may result in decreasing return to scale
+
+#### Business Organizations
+- Business firms are special organizations involved in managing the process of production
+- Functions 
+	- Exploiting the economies of mass production
+	- raising funds
+	- organizing the factors of production
+
+
+### Demand and Consumer Behavior
+
+#### Choice and Utility
+- People choose those goods that give them maximum utility
+- Utility means Satisfaction
+- Utility is a scientific construct that economist use to understand how rational consumers divide their limited resources among the commodities that provide them with satisfaction.
+
+#### Marginal Utility and Law of Diminishing Marginal Utility
+- The increment to utility by the consumption of an additional unit is called marginal utility.
+- Marginal utility denotes the additional utility you get from the consumption of an additional unit of a commodity.
+- Law of diminishing marginal utility states that the marginal utility decreases for the consumer as he/she consumes more and more of good
+- We can also say total utility increases at a decreasing rate
+- Ordinal Utility: - Economist today generally reject the notion of a cardinal (or measurable) utility that people feel or experience when consuming goods and services.
+- What counts for modern Demand theory is the principle of ordinal utility. Under this approach, consumer need to determine only their preference ranking of bundles of commodities.
+
+#### Equimarginal Principle
+- Equimarginal Principle: This fundamental condition of maximum satisfaction or utility is the Equimarginal principle. It states that a consumer having a fixed income and facing given market prices of goods will achieve maximum satisfaction or utility when the marginal utility of the last dollar spent on each good is exactly the same as the marginal utility of the last dollar spent on any other good.
+- "Why must this hold"
+	- If any one good gave more marginal utility per dollar, I would increase my utility by taking money away from other goods and spending more on that good- until the law of diminishing marginal utility drove its marginal utility per dollar down to equality with that of other goods.
+	- If any good gave less marginal utility per dollar than the common level, I would buy less of it until the marginal utility of the last dollar spent on it had risen back to the common level.
+	- The common marginal utility per dollar of all commodities in consumer equilibrium is called the marginal utility of income.
+![[Pasted image 20250305030908.png]]
+
+###### Income Elasticity
+- Measure of Income Effect
+- Percentage change in quantity demanded by percentage change in income
+
+#### Key Concepts
+- The substitution effect occurs when a higher price leads to substitution of other goods for the good whose price has risen.
+- The income effect is the change in the quantity demanded of a good because the change in its price has the effect of changing a consumers’ real income.
+- Income elasticity is the percentage change in the quantity demanded of a good divided by the percentage change in income.
+- Goods are substitutes if an increase in the price of one increase the demand for the other.
+- Goods are complements if an increase in the price of one decreases the demand for the other.
+- Goods are independent if a price change for one has no effect on the demand for the other.
+
+#### The Paradox of Value
+- The total utility from water consumption does not determine its price or demand. Rather, water’s price is determined by its marginal utility.
+- The more there is of a commodity, the less is the relative desirability of its last little unit. It is therefore clear why water has a low price.
+-  The large quantity pull the marginal utilities so far down and thus reduce the prices of these vital commodities.
+
+#### Consumer Surplus
+- The gap between the total utility of a good and its total market value is called consumer surplus. The surplus arises because we “receive more than we pay for” as a result of the law of diminishing marginal utility.
