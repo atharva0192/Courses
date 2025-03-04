@@ -245,3 +245,68 @@
 
 #### Consumer Surplus
 - The gap between the total utility of a good and its total market value is called consumer surplus. The surplus arises because we “receive more than we pay for” as a result of the law of diminishing marginal utility.
+- Because consumers pay the price of the last unit for all units consumed, they enjoy a surplus of utility over cost. Consumer surplus measures the extra value that consumers received above what they pay for a commodity.
+- Economist use consumer surplus when they are performing a cost-benefit analysis, which attempts to determine the costs and benefit of a government programme
+![[Pasted image 20250305032742.png]]
+
+### Analysis of Cost
+
+#### Economic Analysis of Cost
+- **Fixed Cost** - 
+	- Represent the total expenses that is paid out even when no output is produced
+	- Unaffected by any variation in the quantity of output
+- **Variable Cost** -
+	- Vary with the output level such as raw materials, wages etc.
+- **Total Cost** -
+	- TC = FC + VC
+- **Marginal Cost** -
+	- Additional cost of producing 1 extra unit of output
+- TC is related to MC in the same way that total product is related to marginal product or the total utility is related to marginal utility.
+- **Average - 
+	- AC = TC / Quantity
+	- AFC = FC / Quantity
+	- AVC = VC / Quantity
+![[Pasted image 20250305034550.png]]
+
+#### Minimum Average Cost
+- When the MC of an added unit of output is below its AC, its AC is declining. And when MC is above AC, AC is increasing. At the point where MC equals AC, the AC curve is flat. For the typical U-shaped AC curve, the point where MC equals AC is also the point where AC hits its minimum level.
+- Therefore for minimum average cost firm must look at the point where the marginal costs equals the average costs (AVC and AC)
+![[Pasted image 20250305034820.png]]
+- If MC is below AC that is the cost of last unit is less than the average cost until now therefore the AC must fall
+- if MC is above AC must rise
+- The AC curve is pierced at its minimum by the MC curve
+
+
+#### Production Costs
+
+- Cost curves depends on the firms production function
+- If you know factor prices and the production function, you can calculate the cost curves. The production function will tell us which is the least costly combination of inputs the firm can select that can yield the desired output.
+![[Pasted image 20250305035513.png]]
+
+#### Diminishing Returns and U-Shaped Cost Curves
+- Consider the short run in which capital is fixed buy labor is variable . In such a situation, there are diminishing returns to the variable factor because each additional unit of variable factor has less capital to work with. As a result, the marginal cost of output will rise because the extra output produced by each extra variable unit is going down. In other words, diminishing returns to the variable factor will imply an increasing short-run marginal cost. This shows why diminishing returns lead to rising marginal costs after some point.
+![[Pasted image 20250305035920.png]]
+
+#### A Numerical Production Function
+![[Pasted image 20250305040551.png]]
+
+##### Least Cost Factor Combination for a given Output( q = 346 )
+![[Pasted image 20250305040642.png]]
+- if prices of input changes , the equilibrium proportion of the inputs will also change so as to use less of the input that has gone up
+
+##### Equal Product Curves
+- Diagrammatic approach by putting together 2 new curves , equal - product curve and equal cost curve
+- Equal - Product smooth curve indicates all the different combinations of labor and land that yield an output of 346 units.
+- Every point on a given equal-cost line represents the same total cost. The lines are straight because factor prices are constant and they all have a negative slope equal to the ratio of labor price to land price, $2/$3, and hence are parallel.
+- Combining these two we can determine optimal cost 
+![[Pasted image 20250305041100.png]]
+![[Pasted image 20250305041120.png]]
+
+##### Least Cost Condition
+- Step 1 : Calculate marginal product of each input. 
+- Step 2 : Divide the marginal product of each input  by its factor prices giving you marginal product per dollar of input
+- The cost minimizing combination of input comes when the marginal product per dollar of input is equal for all inputs. That is, the marginal contribution to output of each dollar’s worth of labor, or land, of oil, and so forth must be the same.
+- Least Cost Rule: To produce a given level of output at least cost, a firm should buy inputs until it has equalized the marginal product per dollar spent on each input.
+- If the marginal products per $1 o f inputs were not equal, you could reduce the low MP-Per dollar and increase the high-MP-per-dollar input and produce the output at lower cost.
+- A corollary of the least-cost rule is the substitution rule.
+	- Substitution rule: If the price of one factor falls while all other factor prices remain the same, firms will profit by substituting the now-cheaper factor for the other factors until the marginal products per dollar are equal for all inputs.
