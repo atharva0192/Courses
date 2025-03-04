@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analytics.md",
+                "file": "Biology for Engineers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Analytics"
+              "title": "Biology for Engineers"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "b7d043fe80af78f5",
   "lastOpenFiles": [
-    "2025-03-03.md",
     "Data Analytics.md",
+    "2025-03-03.md",
     "Pasted image 20250304032903.png",
     "Pasted image 20250304032635.png",
     "Pasted image 20250304032559.png",

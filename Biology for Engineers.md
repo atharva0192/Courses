@@ -38,7 +38,7 @@ Refrences: CBSE 9th + Slides Classroom
 
 #### Prokaryotes and Eukaryotes
 - In some organisms like bacteria, the nuclear region of the cell may be poorly defined due to the absence of a nuclear membrane. Such an undefined nuclear region containing only nucleic acids is called a nucleoid. Such organisms, whose cells lack a nuclear membrane, are called prokaryotes (Pro = primitive or primary; karyote ≈ karyon = nucleus). Organisms with cells having a nuclear membrane are called eukaryotes.
-- Prokaryotic cells (see Fig. 5.4) also lack most of the other cytoplasmic organelles present in the eukaryotic cells
+- Prokaryotic cells also lack most of the other cytoplasmic organelles present in the eukaryotic cells
 
 #### Cytoplasm
 - The cytoplasm is the fluid content inside the plasma membrane. It also contains many specialised cell organelles. Each of these organelles performs a specific function for the cell.
@@ -363,3 +363,28 @@ These sequences are **part of a gene’s pre-mRNA** and play a key role in gene 
 - A **genetic codon** is a **three-nucleotide sequence** in mRNA that codes for a **specific amino acid** or a **stop signal** during protein synthesis. The set of all codons forms the **genetic code**, which is **universal** across almost all organisms.
 - Redundancy of Genetic Coding 
 	- One amino acid = Many possible codon coding
+
+
+
+#### Promoters in Prokaryotes
+- TTGACG -> -35bp
+- TATAAT -> -10bp
+- Transcription Start -> +1 where RNAP starts synthesizing mRNA
+- Region from -35 to -10 is sigma factor or Transcription Factor - protein that controls the rate of transcription by binding the promoter to RNAP
+- Regulate turn on and off so that right genes are expressed at right time and in the right amount
+
+#### Promoter in Eukaryotes
+- TATA -> -30 region - General Transcription Factor - Core Promoters that required for basic transcription of all gene
+- Specific Transcription Factor -Enhancer or Repressors 
+- Distal Promoter - helps to regulate gene and do not help in initiation of transcription
+
+
+
+### Ribosome
+- Three Sites 
+	- P site -- Peptidyl - Holds the growing polypeptide chain AUG binds directly
+	- A site -- Aminoacyl - Recieves a new incoming tRNA
+	- E site
+- Codon Reconginition - New tRNA at A stie
+- Peptide Bond Formation -  Peptide bond with amino acid at A and P
+- Translocation - Ribosome Translocates thus moving forward in the mRNA
