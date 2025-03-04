@@ -119,3 +119,66 @@
 
 - If more supply than demand then price drops to increase the demand
 - if more demand than supply then price rise to reduce the demand
+![[Pasted image 20250305005643.png]]
+
+- For same price if supply quantity is reduced then price increases (because of low demand) (1st)
+- For same price if demand increases then price increases (supply quantity increases) (2nd)
+![[Pasted image 20250305005859.png]]
+
+
+### Applications of Supply and Demand
+#### Price Elasticity of Demand
+- the percentage change in quantity demanded divided by the percentage change in price.
+- Elastic - Quantity Demanded Varies greatly based on Price -- Luxury goods -- Easily substituted
+- Inelastic - Little response to price change -- Necessity goods -- 
+- Demand elasticity are generally higher in long run
+- Elasticities tend to be higher when 
+	- the goods are luxuries, when
+	- substitutes are available, and 
+	- when consumers have more time to adjust their behavior. 
+![[Pasted image 20250305011322.png]]
+![[Pasted image 20250305011345.png]]
+- Perfectly Elastic Horizontal line
+- Perfectly Elastic Vertical
+ ![[Pasted image 20250305011630.png]]
+##### Slope is not same as elasticity
+![[Pasted image 20250305011732.png]]
+- Slope is constant but the commodity changes from elastic to inelastic
+
+##### Elasticity and Revenue
+- Total Revenue = Total Quantiy * Price per good
+![[Pasted image 20250305012209.png]]
+
+
+#### Price Elasticity of Supply
+- Price Elasticity of supply is the percentage change in quantity supplied divided by the percentage change in price.
+
+
+### Production and Business Organization
+
+- Productive capacity is determined by the size and quality of the labor force, by the quantity  and quality of the capital stock, by the nation’s technical knowledge along with the ability to use that knowledge, and by the nature of public and private institutions.
+- The relationship between the amount of input required and the amount of output that can be obtained is called the production function.
+
+#### Total , Average , Marginal Product
+- Total Product is total amount of output produced
+- Marginal Product is extra output produced by 1 additional input while other factors are constant
+- Average Product is total output divided by total input
+![[Pasted image 20250305021546.png]]
+
+#### Law of Diminishing Returns
+- When we get less extra output for the additional doses of input 
+- In other word marginal utility of each product diminishes as input increases
+- Living standards in crowded India or Bangladesh are low because there are so many workers per acre of land and not because farmers are ignorant or fail to respond to economic incentives.
+
+#### Return to Scale
+- What if we increase all the inputs rather than just one
+- Constant Return to Scale 
+	- Denotes the case where changes in all input leads to proportional increase in output
+- Increasing Return to Scale
+	- Denotes  the case where changes in all input leads to more than proportional changes in output
+- Decreasing Return to Scale
+	- When a balanced increase in input leads to less than proportional increase in output
+	- Might arise due to high cost of management
+
+#### Short Run and Long Run
+- Time is also an input to Production
