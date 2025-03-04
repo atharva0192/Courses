@@ -383,8 +383,9 @@ These sequences are **part of a gene’s pre-mRNA** and play a key role in gene 
 ### Ribosome
 - Three Sites 
 	- P site -- Peptidyl - Holds the growing polypeptide chain AUG binds directly
-	- A site -- Aminoacyl - Recieves a new incoming tRNA
+	- A site -- Aminoacyl - Recieve a new incoming tRNA
 	- E site
-- Codon Reconginition - New tRNA at A stie
+- Codon Recognition - New tRNA at A stie
 - Peptide Bond Formation -  Peptide bond with amino acid at A and P
-- Translocation - Ribosome Translocates thus moving forward in the mRNA
+- Translocation - Ribosome Translocate thus moving forward in the mRNA
+ 
