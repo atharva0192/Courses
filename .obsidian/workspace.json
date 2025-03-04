@@ -121,11 +121,15 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "quiz-generator:Open generator": false
     }
   },
   "active": "d330a2d5083faf20",
   "lastOpenFiles": [
+    "Pasted image 20250305003942.png",
+    "Pasted image 20250305003929.png",
+    "Pasted image 20250305003810.png",
     "Pasted image 20250305000754.png",
     "Data Analytics.md",
     "Economics.md",
@@ -139,10 +143,7 @@
     "Pasted image 20250304031442.png",
     "Pasted image 20250304031126.png",
     "Pasted image 20250304030625.png",
-    "Pasted image 20250304030554.png",
     "conflict-files-obsidian-git.md",
-    "IMG_20250304_014839219_HDR.jpg",
-    "IMG_20250304_014833766_HDR.jpg",
     "Project.md",
     "2025-03-02.md",
     "2025-03-01.md",
