@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics.md",
+                "file": "Data Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Economics"
+              "title": "Data Analytics"
             }
           }
         ]
@@ -103,6 +103,54 @@
               "icon": "lucide-list",
               "title": "Outline of Economics"
             }
+          },
+          {
+            "id": "55ec29580e6f72a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Analytics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Analytics"
+            }
+          },
+          {
+            "id": "89208e09cff009e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Analytics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data Analytics"
+            }
+          },
+          {
+            "id": "2feb69872d9beb7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -120,28 +168,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "quiz-generator:Open generator": false
     }
   },
   "active": "d330a2d5083faf20",
   "lastOpenFiles": [
-    "Pasted image 20250305041120.png",
-    "Pasted image 20250305041100.png",
-    "Pasted image 20250305040642.png",
-    "Pasted image 20250305040551.png",
-    "Pasted image 20250305035920.png",
-    "Pasted image 20250305035513.png",
-    "Pasted image 20250305034820.png",
-    "Pasted image 20250305034550.png",
-    "Pasted image 20250305032742.png",
-    "Pasted image 20250305030908.png",
+    "Pasted image 20250305191542.png",
+    "Pasted image 20250305191432.png",
+    "Pasted image 20250305175954.png",
+    "Pasted image 20250305175608.png",
+    "Pasted image 20250305175105.png",
+    "Pasted image 20250305175047.png",
+    "Pasted image 20250305174639.png",
+    "Pasted image 20250305173939.png",
+    "Pasted image 20250305173825.png",
+    "Pasted image 20250305173631.png",
+    "Pasted image 20250305173548.png",
+    "Economics.md",
     "Data Analytics.md",
     "Biology for Engineers.md",
-    "Economics.md",
-    "Pasted image 20250305021546.png",
     "Untitled.md",
     "2025-03-03.md",
     "conflict-files-obsidian-git.md",
