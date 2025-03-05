@@ -336,6 +336,104 @@ Data Mining can be applied to various types of data, depending on the domain and
 - **Cybersecurity**: Intrusion detection, anomaly detection.
 
 
+
+### **What is Pre-processing in KDD?**
+
+Knowledge Discovery in Databases (KDD) involves extracting meaningful patterns from large datasets. The first and most crucial step is **data pre-processing**, which ensures that the data is clean, integrated, transformed, and reduced before applying data mining techniques.
+
+---
+
+#### **1. Data Cleaning**
+
+Data in real-world applications is often **incomplete, noisy, or inconsistent**. Data cleaning techniques handle missing values, outliers, and duplicate records.
+
+### **Techniques for Data Cleaning:**
+
+✅ **Handling Missing Data:**
+
+- **Ignore missing values** (not recommended unless minimal impact).
+- **Fill with a global constant** (e.g., “Unknown” or 0).
+- **Fill with attribute mean/median/mode**.
+- **Use regression or machine learning models** to predict missing values.
+
+✅ **Removing Noisy Data (Outliers):**
+
+- **Binning:** Sort data into bins and smooth noisy values.
+- **Regression:** Fit a model to detect and correct noise.
+- **Clustering:** Detect outliers as data points far from clusters.
+
+✅ **Handling Inconsistent Data:**
+
+- Detect inconsistencies using **integrity constraints** (e.g., date of birth should not be in the future).
+- Use **data auditing tools** to correct errors.
+
+---
+
+#### **2. Data Integration**
+
+Data may come from multiple sources (databases, spreadsheets, APIs). Data integration combines them into a **single unified dataset**.
+
+#### **Challenges & Techniques:**
+
+✅ **Schema Matching:** Align different databases by **matching column names and data types**.  
+✅ **Entity Resolution:** Resolve different names for the same entity (e.g., "IBM" vs. "International Business Machines").  
+✅ **Data Redundancy Handling:**
+
+- Use **correlation analysis** to remove duplicate attributes.
+- Normalize data to maintain consistency.
+
+---
+
+#### **3. Data Transformation**
+
+Once integrated, data must be **transformed into a suitable format** for mining.
+
+#### **Common Transformation Methods:**
+
+✅ **Normalization (Feature Scaling)**:
+
+- **Min-Max Scaling**: Rescales values between [0,1]
+- **Z-score Standardization**: Transforms data with mean = 0 and std deviation = 1
+- **Log Transformation**: Reduces skewness in data
+
+✅ **Aggregation:**
+
+- Convert raw data into summarized form (e.g., **daily → monthly sales data**).
+
+✅ **Feature Construction:**
+
+- Derive new attributes from existing ones (e.g., **age from date of birth**).
+
+✅ **Encoding Categorical Data:**
+
+- **One-Hot Encoding:** Converts categories into binary vectors.
+- **Label Encoding:** Assigns unique numerical values to categories.
+
+---
+
+#### **4. Data Reduction**
+
+Reducing the dataset size while preserving **important information** speeds up processing and improves efficiency.
+
+#### **Techniques for Data Reduction:**
+
+✅ **Dimensionality Reduction:**
+
+- **Principal Component Analysis (PCA)**: Reduces features while preserving variance.
+- **LDA (Linear Discriminant Analysis)**: Enhances class separability.
+
+✅ **Feature Selection:**
+
+- Remove **irrelevant or redundant** attributes using techniques like **Recursive Feature Elimination (RFE)**.
+
+✅ **Data Sampling:**
+
+- Reduce dataset size using **random sampling** or **stratified sampling** to maintain balance.
+
+✅ **Data Compression:**
+
+- Use **wavelet transforms** or **Huffman encoding** to compress data without losing information.
+
 	
 
 ### Terms
