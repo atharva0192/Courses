@@ -17,6 +17,7 @@
 	- Fraud Detection
 	- Text Mining
 	- Intelligent Query answering
+
 #### **Applications of KDD (Knowledge Discovery in Databases)**
 
 The **KDD process** is widely used across industries to extract valuable insights from large datasets. Below are key applications:
@@ -378,34 +379,27 @@ Data may come from multiple sources (databases, spreadsheets, APIs). Data integr
 ✅ **Schema Matching:** Align different databases by **matching column names and data types**.  
 ✅ **Entity Resolution:** Resolve different names for the same entity (e.g., "IBM" vs. "International Business Machines").  
 ✅ **Data Redundancy Handling:**
-
 - Use **correlation analysis** to remove duplicate attributes.
 - Normalize data to maintain consistency.
 
 ---
 
 #### **3. Data Transformation**
-
 Once integrated, data must be **transformed into a suitable format** for mining.
-
-#### **Common Transformation Methods:**
+##### **Common Transformation Methods:**
 
 ✅ **Normalization (Feature Scaling)**:
-
 - **Min-Max Scaling**: Rescales values between [0,1]
 - **Z-score Standardization**: Transforms data with mean = 0 and std deviation = 1
 - **Log Transformation**: Reduces skewness in data
 
 ✅ **Aggregation:**
-
 - Convert raw data into summarized form (e.g., **daily → monthly sales data**).
 
 ✅ **Feature Construction:**
-
 - Derive new attributes from existing ones (e.g., **age from date of birth**).
 
 ✅ **Encoding Categorical Data:**
-
 - **One-Hot Encoding:** Converts categories into binary vectors.
 - **Label Encoding:** Assigns unique numerical values to categories.
 
@@ -414,27 +408,23 @@ Once integrated, data must be **transformed into a suitable format** for mining.
 #### **4. Data Reduction**
 
 Reducing the dataset size while preserving **important information** speeds up processing and improves efficiency.
-
 #### **Techniques for Data Reduction:**
-
 ✅ **Dimensionality Reduction:**
-
 - **Principal Component Analysis (PCA)**: Reduces features while preserving variance.
 - **LDA (Linear Discriminant Analysis)**: Enhances class separability.
 
 ✅ **Feature Selection:**
-
 - Remove **irrelevant or redundant** attributes using techniques like **Recursive Feature Elimination (RFE)**.
 
 ✅ **Data Sampling:**
-
 - Reduce dataset size using **random sampling** or **stratified sampling** to maintain balance.
 
 ✅ **Data Compression:**
-
 - Use **wavelet transforms** or **Huffman encoding** to compress data without losing information.
 
-	
+![[Pasted image 20250306094209.png]]
+![[Pasted image 20250306094223.png]]
+
 
 ### Terms
 - Frequent Itemset is an itemset whose support is greater than some user-specified minimum support
@@ -622,3 +612,9 @@ If "Milk Bread butter" is frequent itemset then the following are also frequent:
 ![[Pasted image 20250305175954.png]]
 
 
+
+
+### Techniques for Mining MD
+#### Static Discretization - Concept Heirarchy 
+#### Quantitative Association rules - K Clusters
+#### Distance based Association rules - Minimize the Interval Size
