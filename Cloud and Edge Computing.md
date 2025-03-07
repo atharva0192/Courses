@@ -253,3 +253,108 @@
 	- Mimics Trap and Emulate
 
 ## Full Virtualization
+- No hardware support
+- VMware workstation
+- Dynamic Binary Translation on Problematic OS instruction
+- Binary translation incurs more overhead
+![[Pasted image 20250307063539.png]]
+
+#### Host and VMM context
+- context has separate page tb , registers etc
+- VMM context : VMM occupies top 4MB of address space
+- Memory Page of world switch mapped by both the page tables - code data context
+ 
+ 
+![[Pasted image 20250307063756.png]]
+
+### Difference between QEMU and FV
+- Context Saved
+	- Memory allocated
+	- VMCS
+- Privilege
+	- Ring 1 and traps to VMM
+	- Ring 0 and sometimes trap to KVM
+- Trap to VMM
+	- VMM locates at top 4MB of the guest os and traps to VMM for privileged instruction and if it cannot handle then world switch
+	- Traps to KVM via exit
+
+
+### Binary Translation 
+![[Pasted image 20250307064334.png]]
+- GOS binary in translated instruction line-by line and stores in TC
+	- part of VMM
+	- Most code stays same
+	- OS modified to work on Ring 1
+	- Sensitive but unprivileged are modified
+- GOS executes TC from ring 1
+- Privileged OS code traps to VMM
+	- Emulated by VMM context or by switching to host
+	- VMM maintains its copies of page tables etc called shadow copies
+- VMM translator(ring 0 ) translates one basic block at a time to produce a compiled code fragment(CCF)
+- Once CCF  is created then move to ring 1 to run translated guest code and then callout to VMM after ending execution
+- Next CCF is produced
+- If the new CCF produced is present in TC , then directly jump to it without invoking VMM translator
+	- Optimization called chaining
+![[Pasted image 20250307065110.png]]]
+![[Pasted image 20250307065314.png]]
+
+
+## ParaVirtualization
+- Guest OS is modified to use only instructions that can be virtualized
+- Reason 
+	- Some aspects of hardware cannot be virtualized
+	- Simpler Interface
+- Advantages
+	- Better Performance than binary translation
+- Disadvantages
+	- Requires Source code changes to OS ,porting effort
+- Example Xen
+
+#### Xen Architecture (Type 1)
+- Type 1 - runs directly over hardware
+- Trap and emulate 
+	- Xen Ring 0
+	- Guest Ring 1
+	- Xen sits in top 64MB of address space of guests
+	- Guest traps to Xen for privilege instructions
+- A guest VM is called a domain
+	- Special domain called dom0 runs control / management VM
+![[Pasted image 20250307070144.png]]
+#### CPU Virtualization
+- Guest OS no privilege instruction
+	- traps to Xen always
+- Hypercalls : guest os voluntarily invokes Xen to perform special ops
+	- like syscalls
+	- Synchronous
+- Asychronous event Mechanism : Xen and domain communication
+	- Much like interrupts from hardware to kernel
+	- deliver hardware interrupts
+	- Domain event handler has callback functions
+- Trap Handling
+	- when traps , Xen copies the trap frame to OS kernel stack , invokes guest interrupt handler
+	- Guest registers an interrupt descriptor table with Xen to handle traps
+	- Guest Trap handlers work off information on kernel stack and no need to modify guest OS code
+		- except for page faults reading registers(privilege instruction)
+		- so page fault handler modified to read faulting address from kernel stack
+	- Xen detects double trap and terminates it
+		- To prevent any trap from running privilege
+
+
+#### Memory Virtualization
+- One copy of GVA - HPA maintained
+	- like shadow table but in guest not VMM
+- Guest is given read only to RAM (GPA -> HPA)
+	- using this it can construct GVA->GPA
+- Guest page table is guest memory but validated by XEN
+	- Guest marks its page table pages as Read Only
+	- When guest needs to update - hypercall to Xen
+	- Xen validates updates
+	- Batched updates for better performance
+- Segment descriptor are also maintained as above
+
+#### I/O Virtualization and Network
+- Ring 
+	- A circular queue of descriptors allocated by a domain and accessible within XEN.
+![[Pasted image 20250307071603.png]]
+![[Pasted image 20250307071936.png]]
+
