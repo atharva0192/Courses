@@ -212,7 +212,7 @@
 
 - QEMU is userspace process
 - KVM exposes a dummy device at (/dev/kvm)
-	- this allows QEMU to communicate with KVM using ioctl / open calls as very thing in linux is a file
+		- this allows QEMU to communicate with KVM using ioctl / open calls as every thing in linux is a file
 - Allocates memory using mmap for Guest VM
 - Create one thread for every vcpu so that it can run parallely
 - Multiple FD to dummy device
