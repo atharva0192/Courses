@@ -42,7 +42,7 @@
 ![[Pasted image 20250305000754.png]]
 - Productive efficiency occurs when an economy cannot produce more of one good without producing less of another goods; this implies that the economy is on its production-possibility frontier.
 - Being on PPF means that producing more of one good inevitably requires sacrificing other goods.
--  When there are unemployed resources, the economy is not on its PPF but somewhat inside.
+- When there are unemployed resources, the economy is not on its PPF but somewhat inside.
 
 #### Failure of Market Economy
 
