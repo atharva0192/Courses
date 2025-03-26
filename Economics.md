@@ -175,7 +175,7 @@
 - Constant Return to Scale 
 	- Denotes the case where changes in all input leads to proportional increase in output
 - Increasing Return to Scale (Economies of Sales)
-	- Denotes  the case where changes in all input leads to more than proportional changes in output
+	- Denotes the case where changes in all input leads to more than proportional changes in output
 - Decreasing Return to Scale
 	- When a balanced increase in input leads to less than proportional increase in output
 	- Might arise due to high cost of management
