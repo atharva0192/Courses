@@ -380,7 +380,7 @@ These sequences are **part of a gene’s pre-mRNA** and play a key role in gene 
 
 
 
-### Ribosome
+#### Ribosome
 - Three Sites 
 	- P site -- Peptidyl - Holds the growing polypeptide chain AUG binds directly
 	- A site -- Aminoacyl - Recieve a new incoming tRNA
@@ -388,4 +388,118 @@ These sequences are **part of a gene’s pre-mRNA** and play a key role in gene 
 - Codon Recognition - New tRNA at A stie
 - Peptide Bond Formation -  Peptide bond with amino acid at A and P
 - Translocation - Ribosome Translocate thus moving forward in the mRNA
- 
+
+
+## UNIT 4
+
+### Cell Membrane
+
+- Cell Membrane surrounds the cytoplasm of living cells, physically separating cells from the extracellular environment. It consist of phospholipid bilayer with embedded proteins
+![[Pasted image 20250424114512.png]]
+#### Main Components of Cell Membrane
+1. Phospholipid Layer
+	1. 2 Layers
+	2. Each phospholipid has 
+		1. one Hydrophilic head
+		2. two hydrophobic tails
+2. Membrane Proteins
+	1. Two main types:
+		1. Integral Proteins
+		2. Peripheral Proteins
+	2. Bilayer makes the membrane flexible and semi-permeable
+	3. Function
+		1. Transport
+		2. Receptors
+		3. Structural Support
+
+
+#### Functions of Cell Membrane
+##### Transportation
+
+1. Passive Transport
+	1. Simple Diffusion
+		1. Small uncharged molecules pass between the phospholipids to enter or leave the cell , moving from areas of high concentration to areas of low concentration (down the concentration gradient)
+	2. Facilitated Diffusion 
+		1. Substances move into or out of cells down the concentration gradient through protein channel in the cell membrance . Large and charged particles that can fit between the phospholipids generally enter and exit through facilitated diffusion . They require channel or carrier protein
+	3. Osmosis
+		1. Diffusion through water through a selectively permeable membrane
+		2. Water moves down the water concentration gradient 
+![[Pasted image 20250424115400.png]]
+2. Active Transport
+	1. Requires energy as molecules moves against the concentration gradient
+	2. Thsi is an energetically unfavorable reaction , energy reaction , energy is needed for this movement which is provided by breakdown of ATP molecules
+
+|Transport Type|Energy Required|Direction (Gradient)|Example|
+|---|---|---|---|
+|**Simple Diffusion**|❌ No|High → Low|O₂, CO₂|
+|**Facilitated Diffusion**|❌ No|High → Low (via proteins)|Glucose, ions|
+|**Osmosis**|❌ No|Water from low → high solute|Water|
+|**Active Transport**|✅ Yes (ATP)|Low → High|Na⁺/K⁺ pump, H⁺ pumps|
+
+
+##### Endocytosis
+- Process by which cell engulfs the substances from its surrounding by wrapping them in portion of membrane, forming a vesicle that brings them inside the cell
+- Form of active transport i.e requires energy 
+
+1. Pinocytosis - "Cell Drinking"
+	1. Cell engulfs droplets of fuild containing dissolves nutrients
+	2. Forms small vesicles filled with liquid 
+	3. Non - specific
+![[Pasted image 20250424120444.png]]
+2. Phagocytosis - "Cell Eating"
+	1. Cell engulfs large solid particles like bacteria (defense mechanism) , dead cell  or food
+	2. Forms Phagosome
+	3. Common in immune cells
+![[Pasted image 20250424120528.png]]
+![[Pasted image 20250424120540.png]]
+
+##### Exocytosis
+- Exocytosis is the fusion of secretory vesicles with the plasma membrane and results in the discharge of vesicle content into the extracellular space
+
+- Steps
+	1. **Vesicle Formation:** Material to be released is packaged into a membrane-bound **vesicle** inside the cell (often made by the **Golgi apparatus**).
+	2. **Vesicle Movement:** The vesicle travels to the **cell membrane**.
+	3. **Membrane Fusion:** The vesicle membrane **fuses** with the cell membrane.
+	4. **Release:** The vesicle **opens up** and the contents are **released** into the **extracellular space**.
+
+| Function                          | Example                                                    |
+| --------------------------------- | ---------------------------------------------------------- |
+| **Waste removal**                 | Removing unwanted substances from the cell                 |
+| **Secretion of useful molecules** | Releasing **hormones**, **enzymes**, **neurotransmitters** |
+| **Membrane renewal**              | Adding new lipids or proteins to the cell membrane         |
+
+![[Pasted image 20250424121627.png]]
+
+
+
+
+###  Proteins
+- Large molecules made of chains of amino acids
+- are found in every cell in the body are mostly responsible for the most body's functions and life processes
+
+##### Types of Amino Acid
+1. Essential Amino Acids
+2. Non Essential Amino Acids
+
+|Type|Can our body make it?|Do we need it from food?|Examples|
+|---|---|---|---|
+|**Essential Amino Acids**|❌ No|✅ Yes|Leucine, Lysine, Valine, etc.|
+|**Non-Essential Amino Acids**|✅ Yes|❌ No|Alanine, Glutamine, Serine, etc.|
+
+##### Length of Proteins
+
+|Feature|**Peptide**|**Protein**|
+|---|---|---|
+|**Size**|Small chain of amino acids (2–50)|Large chain of 50+ amino acids|
+|**Structure**|Usually linear or short folded chains|Complex, folded into 3D shapes|
+|**Function**|Often signaling or regulatory roles|Structural, enzymatic, transport, etc.|
+|**Examples**|Insulin (51 a.a.), Glutathione (3 a.a.)|Hemoglobin, Enzymes like Amylase|
+
+
+Types of Amino Acid
+
+| Type            | Interaction with Water | Charge | Location in Proteins |
+| --------------- | ---------------------- | ------ | -------------------- |
+| Non-Polar       | Hydrophobic            | No     | Core (inside)        |
+| Polar Uncharged | Hydrophilic            | No     | Surface              |
+| Polar Charged   | Hydrophilic            | + or – | Surface              |
