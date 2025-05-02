@@ -503,3 +503,235 @@ Types of Amino Acid
 | Non-Polar       | Hydrophobic            | No     | Core (inside)        |
 | Polar Uncharged | Hydrophilic            | No     | Surface              |
 | Polar Charged   | Hydrophilic            | + or – | Surface              |
+![[Pasted image 20250424130017.png]]
+
+##### Protein Bonds
+
+| Feature   | **Peptide Bond**                                                 | **Disulfide Bond**                       |
+| --------- | ---------------------------------------------------------------- | ---------------------------------------- |
+| Between   | Amino group & Carboxyl group                                     | Two sulfur atoms of cysteine             |
+| Type      | Covalent bond                                                    | Covalent bond under oxidising conditions |
+| Role      | Links amino acids into a chain: N terminal end to C terminal end | Stabilizes protein's 3D structure        |
+| Involves  | All amino acids                                                  | Only cysteine thiol groups               |
+| Formation | Dehydration (loss of water) called condensation reaction         | Oxidation (loss of H⁺)                   |
+![[Pasted image 20250424130448.png]]
+![[Pasted image 20250424130503.png]]
+
+#### Classification of Proteins by Function
+1. Structural Proteins
+	- Provide support and shape to cell structure
+	- Example - Collagen(Connective tissue) , Keratin(hair) , Elastin(Elasticity)
+2. Enzymatic Proteins 
+	- Catalyze biochemical reactions
+	- Examples - Amylase(Breaks starch) , DNA Polymerase(DNA strands), Pepsin(Digests proteins)
+3. Transport Proteins
+	- Carry substances across cell membranes or blood
+	- Examples - Haemoglobin
+4. Protective /Defensive
+	1. Protect the body from the pathogens
+	2. Examples - Antibodies
+5. Communication Proteins
+	1. Hormones 
+	2. Examples - insulin (regulates blood sugar)
+6. Pigments 
+	1. proteins play roles in **photosynthesis, oxygen transport, vision, camouflage**, and more.
+	2.  Example Rhodopsin (vision in dim light)
+7. Toxins
+	1. these are **proteins produced by living organisms** that can be **harmful** to other organisms.
+	2. Example Venom
+
+
+
+#### Structure of Proteins
+1. Primary Structure
+	1. Individual amino acid join together in a long chain by forming peptide bonds between the -NH2 of one amino acid and the  -COOH of another
+	2. The N terminal describes the end of the sequence with a free amino group. 
+	3. The end of protein sequence with a free carboxyl group is called the C-Terminus
+![[Pasted image 20250426065609.png]]
+2. Secondary Structure
+	1. Folding of N C C backbone due to weak hydrogen bonding 
+		1. Intra Strand Hydrogen Bonding - Alpha Helix
+		2. Inter Strand Hydrogen Bonding - Beta pleated Helix
+	2. Two types
+		1. Parallel 
+		2. Anti - Parallel
+
+It refers to the folding of a polypeptide chain and a local sub-structure on the actual polypeptide backbone chain. There are two types of secondary structures observed in proteins.
+
+One type is the alpha (α) helix structure. The α-helix is a right hand-coiled (helix) in which backbone N-H group forms a hydrogen bond to the backbone C=O group of the amino acid located 3-4 amino acids along the protein sequence. The hydrogen bonds make this structure especially stable.
+The hydrogen bonding in a ß-sheet is between strands (inter-strand) rather than within strands (intra-strand). The sheet conformation consists of pairs of strands lying side-by side. The two strands can be either parallel or anti-parallel depending on whether the strand directions (N-terminus to C-terminus) are the same or opposite.
+![[Pasted image 20250426065631.png]]![[Pasted image 20250426065645.png]]
+3. Tertiary Protiens
+	1. overall 3d shape of the entire protein molecule it is bent and twisted in such a way as to achieve maximum stability.
+	2. It may seem random and irregular but it is fashioned by many stabilising forves due to bonding interactions between the side-chain groups of the amino acid
+
+![[Pasted image 20250426065657.png]]
+
+1. Under physiologic conditions, the "R" group of the amino acid is either hydrophobic or hydrophilic. The amino acids with hydrophilic "R" groups will seek contact with their aqueous environment, while amino acids with hydrophobic "R" groups will seek to avoid water and position themselves towards the center of the protein. Acidic or basic amino acid side-chains will generally be exposed on the surface of the protein as they are hydrophilic.
+2. The formation of disulfide bridges by oxidation of the thiol groups on cysteine is an important aspect of the stabilization of protein tertiary structure, allowing different parts of the protein chain to be held together covalently.
+3. Hydrogen bonds may form between different side-chain groups. Like disulfide bridges, these hydrogen bonds can bring together two parts of a chain that are some distance away in terms of sequence.
+4. Electrostatic interactions between positively and negatively charged sites on amino acid sidechains also help to stabilize the tertiary structure of a protein.
+5. t is shown that the binding of metal ions can stabilize proteins (Metal ion coordination).
+
+
+Denaturing a Protein
+![[Pasted image 20250426070138.png]]
+- Alteration of the protein's shape and thus functions as well
+- Primary structure is unchanged by denaturing
+
+
+
+### Carbohydrates
+- Macromolecule consisting of C , H , O
+
+#### Classification
+- Monosaccharides
+- Disaccharides
+- Polysaccharides
+
+7th Slide
+
+
+### Electrical Signals in Cells
+- Nerves and muscles are excitable tissues
+	- Chemical Stimulus
+	- Mechanical Stimulus
+	- Electrical Stimulus
+- Muscles demonstrates by contraction while nerves by integration and transmission
+- Resting Membrane Potential is more negative in excitable tissues
+
+
+#### Types of Muscles
+- Skeletal 
+	- Attached to bones
+	- 40% of body weight
+	- Locomotion , involuntary response , posture , facial expression, respiratory movements
+	- Voluntary in action controlled by motor neurons
+		- Long cylindrical and multinucleate
+		- Striated (light and dark bands) (regular repeating patterns)
+- Smooth
+	- in walls of hollow organs , blood vessels , eye , glands
+	- Controlled involuntarily by endocrine and automatic nervous system
+		- Non straited
+		- Involuntary
+		- short , spindle-shaped and have single nucleus
+		- extremely extensible while retaining the ability to contract
+- Cardiac
+	- Heart
+	- autorhythmic
+	- Controlled involuntarily by endocrine and automatic nervous system
+		- makes up myocardium(thick muscular middle layer) of heart
+		- striated
+		- short branching and single nucleus
+		- Intercalated discs
+
+#### Neurons
+
+##### Types of Neurons
+1. Unipolar - one process from cell body(splits into two)
+2. Bipolar - One axon and one dendrite
+3. Multipolar - One axon many dendrites
+
+
+#### Production of signals
+- Ion channels
+- Resting Membrane Potential
+
+
+#### ION Channels
+Ion channels open and close due to the presence of
+(gates).
+
+- Types
+	- Leakage channels: open and close randomly 
+	- Voltage-gated channels: opens to a change in Membrane Potential (voltage).
+	- Ligand-gated channels: opens and close in response to chemical stimulus, such as Ach.
+	- Mechanical gated channels: open or close in response to mechanical stimulation, such as touch or tissue stretching.
+![[Pasted image 20250426130540.png]]
+![[Pasted image 20250426130910.png]]
+Alright! Let's walk through this image carefully — it's a very important and famous structure:  
+👉 **This is the structure of a Voltage-Gated Sodium (Na⁺) Channel** found in excitable tissues like nerves and muscles!
+
+---
+
+## 🧩 Panel A: **Linear Structure (2D Schematic)**
+
+- The sodium channel has **4 domains**: **Domain I (DI)**, **Domain II (DII)**, **Domain III (DIII)**, **Domain IV (DIV)**.
+    
+- Each domain has **6 transmembrane segments** (**S1 to S6**).
+    
+    - **S1–S4** = **Voltage-sensing domain** (detects membrane voltage changes 🔌).
+        
+    - **S5–S6** = **Pore-forming domain** (forms the passage for Na⁺ to move).
+        
+
+🔵 **P-loops** between S5 and S6 form the **selectivity filter** → only allows Na⁺ ions to pass, not other ions.
+
+⚡ **S4 segment** in each domain is special because it has **positive charges (+)** — it **senses voltage**!
+
+🛑 There's also an **inactivation gate** (near DIII-DIV) — **closes the channel quickly** after it opens.
+
+---
+
+## 🧬 Panel B: **Top View (3D look from extracellular side)**
+
+- Imagine looking **down** onto the membrane.
+    
+- You see the **4 domains arranged like petals** around a central **Na⁺ pore**.
+    
+- Sodium ions (**Na⁺**) pass through the center.
+    
+- The S5 and S6 segments form the "walls" of the pore.
+    
+
+---
+
+## 🧬 Panel C: **Side View (3D sideways)**
+
+- Here, you're seeing the channel **inserted in the membrane**.
+    
+- Top = **Extracellular side**, Bottom = **Intracellular side**.
+    
+- The Na⁺ ion flows **down through the pore** after activation.
+    
+- The **activation gate** opens when the voltage across the membrane changes.
+    
+- **Selectivity filter** at the top ensures **only Na⁺** passes through, no other ions like K⁺ or Ca²⁺.
+    
+
+---
+
+## 🎯 **Summary:**
+
+- **4 domains**, each with 6 segments.
+    
+- **Voltage sensor** (S4) detects depolarization.
+    
+- **Pore** (S5–S6) allows Na⁺ to flow in.
+    
+- **Inactivation gate** quickly shuts the channel.
+    
+- **Essential for generating action potentials** in nerves and muscles.
+    
+
+---
+
+Would you also like a very simple animation-style explanation of how this channel **opens and closes** during an action potential? ⚡🚪 (Super fun and important!) 🚀
+
+#### Resting Membrane Potential
+- Difference in voltage across the cell membrane when a neuron or muscle cell is not producing an active potential i.e not sending signals
+- Cell exhibiting this is called polarised
+
+
+
+
+
+|Feature|Ion Channels|RMP|
+|---|---|---|
+|What it is|Protein pathway for ions|Electrical charge difference|
+|Nature|A **structure** (protein)|A **state** (electrical condition)|
+|Role|Moves ions across membrane|Result of ion movements|
+|Controlled by|Signals (voltage, chemicals)|Ion gradients and channel behavior|
+|Example|Voltage-gated Na⁺ channel|-70 mV in neurons|
+
+
